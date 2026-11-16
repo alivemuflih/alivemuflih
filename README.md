@@ -26,9 +26,9 @@ I am an enthusiastic learner currently pursuing a unique Undergraduate Double De
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 <br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alivemuflih&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false"></p><br/>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=alivemuflih&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false"></p><br/>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alivemuflih&theme=vue-dark&hide_border=false"></p><br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alivemuflih&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alivemuflih&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
 <br/><br/>
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
