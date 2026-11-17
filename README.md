@@ -1,34 +1,136 @@
-# Alive Muflih
+# 👋 Hi, I'm Alive Muflih
 
-I am an enthusiastic learner currently pursuing a unique Undergraduate Double Degree in Demography and Civil Registration at Sebelas Maret University’s Vocational School, coupled with Informatics Engineering from Duta Bangsa University’s Faculty of Computer Science.
+I'm a **Double Degree student** in **Demography & Civil Registration** at Sebelas Maret University and **Informatics Engineering** at Duta Bangsa University.
 
-- 🔭 I’m currently working on **my own Indie Game**
-- 🌱 I’m currently learning **FrontEnd & BackEnd**
-- 👯 I’m looking to collaborate on **Indie game stuff**
-- 🤝 I’m looking for help with **game dev stuff**
-- 💬 Ask me about **anything**
-- ⚡ Fun fact: **I love cat so much😼**
+I'm interested in the intersection of **data, technology, design, and social impact** — especially how technology can help us better understand and solve real-world problems.
 
+- 🎓 Studying **Demography & Civil Registration × Informatics Engineering**
+- 📊 Exploring **data analytics, spatial analysis, and population studies**
+- 💻 Building things with **software, data, and technology**
+- 🌱 Always learning, experimenting, and turning ideas into something useful
+- 🤝 Open to **meaningful collaborations and interesting ideas**
+- 💬 Let's talk about **data, technology, sustainability, design, or anything interesting**
+- 🐱 Fun fact: **Cats are probably my favorite coworkers** 😼
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alivemuflih) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alive_muflih)  
+---
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+## 🌐 Connect With Me
 
-<br/>
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=alivemuflih&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false"></p><br/>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alivemuflih&theme=vue-dark&hide_border=false"></p><br/>
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alivemuflih&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"></p>
-<br/><br/>
-<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alivemuflih)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alive_muflih)
 
+---
+
+## 🧭 What I'm Into
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Data
+
+Data Analytics  
+Spatial Analysis  
+Demography  
+Population Studies  
+GIS & Mapping
+
+</td>
+
+<td width="33%" align="center">
+
+### 💻 Technology
+
+Software Development  
+Web Development  
+Mobile Development  
+Data Applications  
+Digital Innovation
+
+</td>
+
+<td width="33%" align="center">
+
+### 🌱 Impact
+
+Social Innovation  
+Sustainability  
+Environmental Issues  
+Public Data  
+Real-World Problems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Development
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### 🌐 Frameworks & Backend
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+
+### 📊 Data & GIS
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+
+### 🎨 Design
+
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🚀 Selected Work
+
+### 🎮 Taverinn
+
+A social platform concept for helping gamers find people to play with, featuring user profiles, game preferences, party creation, LFG posts, chat, and social connections.
+
+**Built with:** Flutter · Dart · Supabase
+
+### 📍 Spatial & Demographic Analysis
+
+Exploring demographic patterns and spatial relationships through **GIS, statistical analysis, and population data**.
+
+**Tools:** QGIS · R · BPS Data
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/alivemuflih" alt="GitHub Metrics" />
+</p>
+
+---
+
+## 🗺️ Contribution Journey
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alivemuflih&theme=github_dark" alt="GitHub Contribution Summary" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, and figuring things out along the way.</i>
+</p>
+
+<p align="center">
+  <b>Thanks for stopping by! 👋</b>
+</p>
