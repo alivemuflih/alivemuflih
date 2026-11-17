@@ -113,9 +113,8 @@ Exploring demographic patterns and spatial relationships through **GIS, statisti
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/alivemuflih" alt="GitHub Metrics" />
-</p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=alivemuflih&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false"></p><br/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=alivemuflih&theme=vue-dark&hide_border=false"></p><br/>
 
 ---
 
@@ -126,6 +125,8 @@ Exploring demographic patterns and spatial relationships through **GIS, statisti
 </p>
 
 ---
+
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></p>
 
 <p align="center">
   <i>Building, learning, and figuring things out along the way.</i>
